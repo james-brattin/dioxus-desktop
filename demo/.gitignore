@@ -1,0 +1,25 @@
+# Compiled files
+*.o
+*.so
+*.rlib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Package files
+/target/
+**/*.rs.bk
+
+# IDE files
+.idea/
+*.iml
+*.vscode/
+
+# Backup files
+*~
+*.swp
+*.bak
+*.tmp
